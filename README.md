@@ -7,7 +7,7 @@ Welcome to the QR Code Generator Website project! This web application allows us
 You can try out the live demo of the QR Code Generator Website here : https://karankumar-97.github.io/QR-Generator/
 # UI/UX of Website
 
-<img width="960" alt="Screenshot 2023-08-15 170841" src="https://github.com/KaranKumar-97/QR-Generator/assets/105391077/245e939c-8e37-4838-b243-fc3c4a2b3665">
+<img width="960" alt="UI" src="https://github.com/KaranKumar-97/QR-Generator/assets/105391077/46dc2f0b-5258-48e1-a58f-ade9acb5a98b">
 
 # Features
 
